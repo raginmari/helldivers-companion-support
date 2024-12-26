@@ -19,16 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: S.E.A.F. Democratic Companion Support
-email: app-support@reimartwelker.de
+# email: app-support[at]reimartwelker[dot]de
 description: >- # this means to ignore newlines until "baseurl:"
-  The support page of the "S.E.A.F. Democratic Companion" mobile app. You'll find information regarding data privacy, open source libraries used by the app and the project roadmap."
-baseurl: "/"
+  The support page of the "S.E.A.F. Democratic Companion" mobile app."
+baseurl: ""
 url: "https://github.com/raginmari/helldivers-companion-support/blob/website"
 github_username:  raginmari
 
 # Build settings
 theme: minima
 plugins: []
+
+# Set and order pages in the header navigation
+header_pages:
+  - data_privacy.md
+  - software_licenses.md
+  - roadmap.md
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
