@@ -16,13 +16,21 @@ Find the app for free (no ads or in-app purchases) on the App Stores:
     <img alt="Download for Android" src="assets/images/Download_Google.png" height=64px />
 </a>
 
-### Disclaimer
+<br/>
+
+---
+
+**Disclaimer**
 
 The app is an unofficial fan project and is not affiliated with Arrowhead Game Studios AB or Sony Interactive Entertainment LLC and its affiliates in the US and other countries. All rights to Helldivers 2 and other related content remain with their respective copyright holders. This app has been created by fans for fans and has no commercial intent.
 
-### Features
+---
 
-The "S.E.A.F. Democratic Companion" is part of every Helldiver's arsenal and makes spreading managed democracy a bit more ...manageable. The most determined Helldivers use the app to track the goal and status of the current Major Order and all active campaigns (liberations and defenses). Moreover, they closely follow Super Earth communications.
+<br/>
+
+## Features
+
+The "S.E.A.F. Democratic Companion" is part of every Helldiver's arsenal and makes spreading managed democracy a bit more ...manageable. Helldivers use the app to track the goal and status of the current Major Order and all active campaigns (liberations and defenses). Moreover, they closely follow Super Earth communications.
 
 🤔
 
@@ -30,6 +38,6 @@ Admittedly, the app is still rather slim on features but more are planned. See t
 
 If you need a more complete set of features _right now_, please consider the excellent DiversHub or War Monitor apps. I'd be happy if you used my app alongside theirs while I'm busy catching up. I use them both regularly.
 
-### Support
+## Support
 
 This is the support page of the app and as such should provide support. If you have trouble with the app or notice bugs, please consider [creating a GitHub issue here](https://github.com/raginmari/helldivers-companion-support).
