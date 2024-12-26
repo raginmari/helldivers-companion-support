@@ -22,7 +22,7 @@ The app is an unofficial fan project and is not affiliated with Arrowhead Game S
 
 ### Features
 
-The "S.E.A.F. Democratic Companion" is a part of every Helldiver's arsenal that makes spreading managed democracy a bit more ...manageable. The most determined Helldivers use their companion to track the goal and status of the current Major Order and all active campaigns (liberations and defenses). Moreover, they closely follow Super Earth communications.
+The "S.E.A.F. Democratic Companion" is part of every Helldiver's arsenal and makes spreading managed democracy a bit more ...manageable. The most determined Helldivers use the app to track the goal and status of the current Major Order and all active campaigns (liberations and defenses). Moreover, they closely follow Super Earth communications.
 
 🤔
 
