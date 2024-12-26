@@ -4,7 +4,7 @@ title: Data privacy
 permalink: /data-privacy/
 ---
 
-This page explains the data used by the ‘S.E.A.F. Democratic Companion’ app (hereinafter referred to as ‘the app’) and the purpose of its collection and processing.
+This page explains the data used by the "S.E.A.F. Democratic Companion" app (hereinafter referred to as "the app") and the purpose of its collection and processing.
 
 ## Download and installation
 The data collected by the app store operator when the app is downloaded from the app stores is beyond the control and responsibility of the provider of this app.
