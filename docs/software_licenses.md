@@ -24,4 +24,10 @@ The "S.E.A.F. Democratic Companion" mobile app uses the following Open Source li
 
 The table was created using [nuget-license](https://github.com/sensslen/nuget-license) (licensed under [Apache-2.0](https://github.com/sensslen/nuget-license/blob/main/LICENSE)).
 
-Thank you to all the authors and contributors!
+In addition to the listed libraries, the app uses the following resources:
+- The [helldivers-2/api](https://github.com/helldivers-2/api) by the Helldivers 2 Community, licensed under the [MIT license](https://github.com/helldivers-2/api/blob/master/LICENSE).
+- The font [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch) by Cadson Demak, licensed under the [Open Font License](https://fonts.google.com/specimen/Chakra+Petch/license).
+- Google [Material Symbols](https://fonts.google.com/icons), licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html).
+- [Environmental condition icons](https://helldivers.wiki.gg/wiki/Category:Icons_-_Helldivers_2_-_Environmental_Conditions) from the Helldivers Wiki, licensed under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-sa/4.0).
+
+A big thank you to the various authors and contributors!
