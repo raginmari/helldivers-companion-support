@@ -20,7 +20,7 @@ MO = Major Order
 | Improve "Exterminate" MO task | Add references to certain planets ("5.000.000 enemies on Socorro III"). | Low | Low | 😴 |
 | Campaign predictions | Estimate when campaigns succeed or fail. | Medium | High | 😴 |
 | Unreachable planets | Add UI indicating that a planet that must be liberated for an MO cannot be reached yet. | Medium | Medium | 😴 |
-| Time since last data update | Add indicator to pull-to-refresh pages showing the time since the last update | Medium | Low | ✅ v1.2.0 |
+| Time since last data update | Add indicator to pull-to-refresh pages showing the time since the last update | Medium | Low | ✅ v1.1 |
 | AI war reports | Use AI to summarize the war effort against specific factions, on specific planets etc. | - | - | 💡 |
 | AI change reports | Use AI to summarize changes to items or weapons over time. | - | - | 💡 |
 | Splash animation | Add an animation to the splash screen. | - | - | 💡 |
