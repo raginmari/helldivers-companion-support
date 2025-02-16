@@ -10,17 +10,17 @@ MO = Major Order
 
 | Feature | Notes | Priority | Sacrifice | Status |
 | --- | --- | --- | --- | --- |
-| Push Notifications | Notifications about important events in the game such as major orders. | Highest | High | 🤔 |
+| Push Notifications | Notifications about important events in the game such as major orders. | Highest | High | 🧑🏼‍💻 |
 | Galactic map | An overview of all frontlines and planets. Routes between planets, attacks. Maybe the DSS. | High | Highest | 🤔 |
-| MO task type 15 | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | 😴 |
-| MO task type 2 | Support for MOs requesting the Helldivers to extract successfully with X units of item Y. | Medium | Medium | 🤔 |
+| MO task type 15 | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | 🤔 |
+| MO task type 2 | Support for MOs requesting the Helldivers to extract successfully with X units of item Y. | Medium | Medium | 😴 |
 | MO task type ? | Support for MOs requesting the Helldivers to kill X enemies with weapon Y. | Medium | Medium | 😴 |
-| Improve "Defend" MO task | The current implementation works for up to ~8 successful defenses. Add alternative visualization for more defenses. | Low | Low | 😴 |
+| Improve "Defend" MO task | The current implementation works for up to ~8 successful defenses. Add alternative visualization for more defenses. | Low | Low | ✅ v1.0.1 |
 | Improve "Exterminate" MO task | Add references to certain enemies to be killed ("5.000.000 Bile Titans"). | Low | Low | 😴 |
 | Improve "Exterminate" MO task | Add references to certain planets ("5.000.000 enemies on Socorro III"). | Low | Low | 😴 |
 | Campaign predictions | Estimate when campaigns succeed or fail. | Medium | High | 😴 |
 | Unreachable planets | Add UI indicating that a planet that must be liberated for an MO cannot be reached yet. | Medium | Medium | 😴 |
-| Time since last data update | Add indicator to pull-to-refresh pages showing the time since the last update | Medium | Low | ✅ v1.1 |
+| Time since last data update | Add indicator to pull-to-refresh pages showing the time since the last update | Medium | Low | ✅ v1.1.0 |
 | AI war reports | Use AI to summarize the war effort against specific factions, on specific planets etc. | - | - | 💡 |
 | AI change reports | Use AI to summarize changes to items or weapons over time. | - | - | 💡 |
 | Splash animation | Add an animation to the splash screen. | - | - | 💡 |
