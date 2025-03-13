@@ -8,14 +8,15 @@ The "S.E.A.F. Democratic Companion" mobile app uses the following Open Source li
 
 | Package ID                             | Package version | Authors                          | License |
 |---------------------------------------|----------------|-------------------------------------------------|----------------------------------|
-| [CommunityToolkit.Maui](https://github.com/CommunityToolkit/Maui) | 9.0.3 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
-| [CommunityToolkit.Mvvm](https://github.com/CommunityToolkit/dotnet) | 8.2.2 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
+| [CommunityToolkit.Maui](https://github.com/CommunityToolkit/Maui) | 11.1.0 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
+| [CommunityToolkit.Mvvm](https://github.com/CommunityToolkit/dotnet) | 8.4.0 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
 | [DynamicData](http://dynamic-data.org/) | 8.4.1 | Roland Pheasant | [MIT](https://licenses.nuget.org/MIT) |
 | [JsonSubTypes](https://github.com/manuc66/JsonSubTypes) | 2.0.1 | Emmanuel Counasse | [MIT](https://licenses.nuget.org/MIT) |
-| [Microsoft.Maui.Controls](https://github.com/dotnet/maui) | 9.0.10 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
-| [Microsoft.Maui.Controls.Compatibility](https://github.com/dotnet/maui) | 9.0.10 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
+| [Maui.BindableProperty.Generator](https://github.com/rrmanzano/maui-bindableproperty-generator)| 0.11.1 | Ricardo Ruvalcaba | [MIT](https://github.com/rrmanzano/maui-bindableproperty-generator/blob/main/LICENSE) |
+| [Microsoft.Maui.Controls](https://github.com/dotnet/maui) | 9.0.40 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
+| [Microsoft.Maui.Controls.Compatibility](https://github.com/dotnet/maui) | 9.0.40 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
 | [Microsoft.Net.Http.Headers](https://asp.net/) | 8.0.7 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
-| [Microsoft.NET.ILLink.Tasks](https://dot.net/) | 9.0.0 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
+| [Microsoft.NET.ILLink.Tasks](https://dot.net/) | 9.0.1 | Microsoft | [MIT](https://licenses.nuget.org/MIT) |
 | [Newtonsoft.Json](https://www.newtonsoft.com/json) | 13.0.3 | James Newton-King | [MIT](https://licenses.nuget.org/MIT) |
 | [Polly](https://github.com/App-vNext/Polly) | 8.1.0 | Michael Wolfenden, App vNext | [BSD-3-Clause](https://licenses.nuget.org/BSD-3-Clause) |
 | [RestSharp](https://restsharp.dev/) | 112.1.0 | .NET Foundation and Contributors | [Apache-2.0](https://licenses.nuget.org/Apache-2.0) |
