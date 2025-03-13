@@ -12,12 +12,12 @@ MO = Major Order
 | --- | --- | --- | --- | --- |
 | Push Notifications | Notifications about important events in the game such as major orders. | Highest | High | 🧑🏼‍💻 |
 | Galactic map | An overview of all frontlines and planets. Routes between planets, attacks. Maybe the DSS. | High | Highest | 🤔 |
-| MO task type 15 | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | 🤔 |
-| MO task type 2 | Support for MOs requesting the Helldivers to extract successfully with X units of item Y. | Medium | Medium | 😴 |
+| Add "Expand" MO task | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | 🤔 |
+| Add "Extract" MO task | Support for MOs requesting the Helldivers to extract successfully with X units of item Y. | Medium | Medium | ✅ v1.1.0 |
 | MO task type ? | Support for MOs requesting the Helldivers to kill X enemies with weapon Y. | Medium | Medium | 😴 |
 | Improve "Defend" MO task | The current implementation works for up to ~8 successful defenses. Add alternative visualization for more defenses. | Low | Low | ✅ v1.0.1 |
-| Improve "Exterminate" MO task | Add references to certain enemies to be killed ("5.000.000 Bile Titans"). | Low | Low | 😴 |
-| Improve "Exterminate" MO task | Add references to certain planets ("5.000.000 enemies on Socorro III"). | Low | Low | 😴 |
+| Improve "Eradicate" MO task | Add references to certain enemies to be killed ("5.000.000 Bile Titans"). | Low | Low | 😴 |
+| Improve "Eradicate" MO task | Add references to certain planets ("5.000.000 enemies on Socorro III"). | Low | Low | ✅ v1.1.0 |
 | Campaign predictions | Estimate when campaigns succeed or fail. | Medium | High | 😴 |
 | Unreachable planets | Add UI indicating that a planet that must be liberated for an MO cannot be reached yet. | Medium | Medium | 😴 |
 | Time since last data update | Add indicator to pull-to-refresh pages showing the time since the last update | Medium | Low | ✅ v1.1.0 |
