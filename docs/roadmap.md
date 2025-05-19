@@ -12,7 +12,8 @@ MO = Major Order
 | --- | --- | --- | --- | --- |
 | Push Notifications | Notifications about important events in the game such as major orders. | Highest | High | 🧑🏼‍💻 |
 | Galactic map | An overview of all frontlines and planets. Routes between planets, attacks. Maybe the DSS. | High | Highest | 🤔 |
-| Add "Expand" MO task | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | 🤔 |
+| Add "Expand" MO task | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | ✅ v1.2.0 |
+| Add "Dominate" MO task | Support for MOs requesting the Helldivers to complete operations against an enemy faction | Medium | Low | ✅ v1.2.0 |
 | Add "Extract" MO task | Support for MOs requesting the Helldivers to extract successfully with X units of item Y. | Medium | Medium | ✅ v1.1.0 |
 | MO task type ? | Support for MOs requesting the Helldivers to kill X enemies with weapon Y. | Medium | Medium | 😴 |
 | Improve "Defend" MO task | The current implementation works for up to ~8 successful defenses. Add alternative visualization for more defenses. | Low | Low | ✅ v1.0.1 |
@@ -21,8 +22,6 @@ MO = Major Order
 | Campaign predictions | Estimate when campaigns succeed or fail. | Medium | High | 😴 |
 | Unreachable planets | Add UI indicating that a planet that must be liberated for an MO cannot be reached yet. | Medium | Medium | 😴 |
 | Time since last data update | Add indicator to pull-to-refresh pages showing the time since the last update | Medium | Low | ✅ v1.1.0 |
-| AI war reports | Use AI to summarize the war effort against specific factions, on specific planets etc. | - | - | 💡 |
-| AI change reports | Use AI to summarize changes to items or weapons over time. | - | - | 💡 |
 | Splash animation | Add an animation to the splash screen. | - | - | 💡 |
 | Personal order | Show the daily personal order. | - | - | 💡 |
 
