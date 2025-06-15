@@ -11,13 +11,18 @@ MO = Major Order
 | Feature | Notes | Priority | Sacrifice | Status |
 | --- | --- | --- | --- | --- |
 | Push Notifications | Notifications about important events in the game such as major orders. | Highest | High | 🧑🏼‍💻 |
-| Galactic map | An overview of all frontlines and planets. Routes between planets, attacks. Maybe the DSS. | High | Highest | 🤔 |
+| Galactic map | An overview of all frontlines and planets. Routes between planets, attacks. Maybe the DSS. | High | High | 🤔 |
+| Democratic Space Station | Display location and active effects of the DSS | Medium | High | 😴 |
+| Planet details | Display planet details | Medium | Medium | 😴 |
+| Planet regions and cities | Display named regions of planets + liberation status | Medium | Medium | 😴 |
+| Update campaign UI | Improve campaign UI (look and displayed data) | Medium | Medium | 😴 |
+| Message of the day | Implement web service for user messages | Low | High | 😴 |
+| App configuration | Implement web service for app configuration | Medium | High | 😴 |
+| More localizations | Add more localizations (EFIGS, NL, PL, Nordics etc.) | Medium | Medium | 😴 |
 | Add "Expand" MO task | Support for MOs requesting the Helldivers to liberate more planets than are lost. | Medium | Low | ✅ v1.2.0 |
 | Add "Dominate" MO task | Support for MOs requesting the Helldivers to complete operations against an enemy faction | Medium | Low | ✅ v1.2.0 |
 | Add "Extract" MO task | Support for MOs requesting the Helldivers to extract successfully with X units of item Y. | Medium | Medium | ✅ v1.1.0 |
-| MO task type ? | Support for MOs requesting the Helldivers to kill X enemies with weapon Y. | Medium | Medium | 😴 |
 | Improve "Defend" MO task | The current implementation works for up to ~8 successful defenses. Add alternative visualization for more defenses. | Low | Low | ✅ v1.0.1 |
-| Improve "Eradicate" MO task | Add references to certain enemies to be killed ("5.000.000 Bile Titans"). | Low | Low | 😴 |
 | Improve "Eradicate" MO task | Add references to certain planets ("5.000.000 enemies on Socorro III"). | Low | Low | ✅ v1.1.0 |
 | Campaign predictions | Estimate when campaigns succeed or fail. | Medium | High | 😴 |
 | Unreachable planets | Add UI indicating that a planet that must be liberated for an MO cannot be reached yet. | Medium | Medium | 😴 |
